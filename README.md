@@ -3,7 +3,7 @@
     <h1> WeatherApp </h1>   
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BiancaFSilva/WeatherApp">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BiancaFSilva/WeatherApp">
-    <p> React JS + Open Weather Map API </p>    
+    <small> <br> React JS + Open Weather Map API </small>    
 </div>
 
 ## About
@@ -26,7 +26,7 @@ Installing the latest stable version of node and linking to use
   nvs link lts
 ```
 
-⚠ Check the version and if the package was installed correctly by typing `npm -v` before install yarn and initialize the project ⚠
+⚠ Check the version and if the package was installed correctly by typing `npm -v` before install yarn and initialize the project 
 
 Cloning the repository 
 ```sh
@@ -44,7 +44,7 @@ Runs the project in the development mode
   yarn start
 ```
 Open `http://localhost:3000` to view it in your browser.\
-The page will reload when you make changes and you may also see any lint errors in the console.
+• The page will reload when you make changes and you may also see any lint errors in the console.
 
 ## Credits
 This application was built based on the video [Build a Weather App in React JS](https://youtu.be/GuA0_Z1llYU) published on YouTube by the [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)'s channel. 
