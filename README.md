@@ -30,7 +30,7 @@ Installing the latest stable version of node and linking to use
 
 Cloning the repository 
 ```sh
-  git clone git@github.com:<your-username>/WeatherApp.git <your-repository-name>
+  git clone git@github.com:BiancaFSilva/WeatherApp.git <your-repository-name>
   cd <your-repository-name>
 ```
 
